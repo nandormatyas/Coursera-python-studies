@@ -3,7 +3,7 @@ This repository includes the code written following the
 [Python for Everybody Specialization course on Coursera](https://www.coursera.org/specializations/python),
 accomplished in 2017.
 
-In the first part learning the basics was written in python2.
+The first part, learning the basics, was written in python2.
 
 The second part, including
 
