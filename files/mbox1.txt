@@ -1,0 +1,13 @@
+But when we start reading 
+files, we're going to have to deal 
+after with these newlines. So the way that we 
+sort of have to mentally visualize of what these 
+text files look like is they have a newline that punctuates 
+the end of the line. Now in reality, if we look at this, this R really comes right 
+after it. Right? This is all a bunch of characters and the newlines are punctuation, okay? 
+To say this is first line, second line, third line, and fourth line.
+after you gotta think that each of these things is here, aftting at the end of the line. 
+And so the number of characters in this line include that newline. Now the newline is one character. 
+Okay? So, how do we read these files? Well, we've already talked about doing an open xfile. And I'm just, this xfile, 
+again that's just a mneumonic name that I made up. This is a handle. Remember, it's not all the data. But the handle is 
+the way that we can read the data. We can use it as a access point. The coolest way to read a file, if it's a text file 
