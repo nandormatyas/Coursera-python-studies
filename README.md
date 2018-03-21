@@ -1,7 +1,7 @@
 # Python-studies
 This repository includes the code written following the
 [Python for Everybody Specialization course on Coursera](https://www.coursera.org/specializations/python),
-accomplished in 2017. This is my very first approach towards coding, I was completely unaware of clean code directives,
+accomplished in 2017. This was my very first approach towards coding, I was completely unaware of clean code directives,
 please view code accordingly.
 
 The first part, learning the basics, was written in python2.
